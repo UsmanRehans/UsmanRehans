@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UsmanRehans
-- 👀 I’m interested in data
+- 👀
 
 <!---
 UsmanRehans/UsmanRehans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
